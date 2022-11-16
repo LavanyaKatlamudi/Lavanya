@@ -1,0 +1,7 @@
+invoiceNo,StockCode,Description,Quantity,invoiceDate,UnitPrice,CustomerID,Country
+536365,85123A,White Hanging Heart,6,1/12/2010 8:26,2.55,17890,United Kingdom
+536346,85123b,healing heart,2,11/11/2012 8:26,4,17891,United Kingdom
+512355,85123c,ghil,6,1/12/2012 8:26,3.25,17892,USA
+534375,85123d,thyun,6,1/1/2010 8:26,7.8,17893,USA
+,85123e,hi,10,1/12/2010 8:26,20,17893,United Kingdom
+,85123f,heio,4,1/12/2010 8:26,30,17893,United Kingdom
